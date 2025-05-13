@@ -1,0 +1,48 @@
+com.mycompany.reko.app-jetified-profileinstaller-1.3.1-0 C:\Users\LENOVO\.gradle\caches\transforms-3\073b343a24a188e9cfc16700b0c0887c\transformed\jetified-profileinstaller-1.3.1\res
+com.mycompany.reko.app-jetified-credentials-1.2.0-rc01-1 C:\Users\LENOVO\.gradle\caches\transforms-3\10255466b6e02a6be1086f7312e3abaa\transformed\jetified-credentials-1.2.0-rc01\res
+com.mycompany.reko.app-jetified-play-services-basement-18.4.0-2 C:\Users\LENOVO\.gradle\caches\transforms-3\12aba3c53d869aaf19508fe05cd401ca\transformed\jetified-play-services-basement-18.4.0\res
+com.mycompany.reko.app-jetified-datastore-1.0.0-3 C:\Users\LENOVO\.gradle\caches\transforms-3\1519a6b9cbdca4a32beaf09385142c68\transformed\jetified-datastore-1.0.0\res
+com.mycompany.reko.app-jetified-core-1.0.0-4 C:\Users\LENOVO\.gradle\caches\transforms-3\2199ffc5741a68fab63833256d2bd053\transformed\jetified-core-1.0.0\res
+com.mycompany.reko.app-jetified-tracing-1.2.0-5 C:\Users\LENOVO\.gradle\caches\transforms-3\349f5dccc8ec9b47748a1077fab915f4\transformed\jetified-tracing-1.2.0\res
+com.mycompany.reko.app-appcompat-1.2.0-6 C:\Users\LENOVO\.gradle\caches\transforms-3\35c24055967bd44b27a35b1f6abd5c8e\transformed\appcompat-1.2.0\res
+com.mycompany.reko.app-jetified-window-java-1.2.0-7 C:\Users\LENOVO\.gradle\caches\transforms-3\466d762468cbd008bcd2ac4f6b94994e\transformed\jetified-window-java-1.2.0\res
+com.mycompany.reko.app-lifecycle-runtime-2.7.0-8 C:\Users\LENOVO\.gradle\caches\transforms-3\4a1b276e37d539ce0ebf1ed2253152f6\transformed\lifecycle-runtime-2.7.0\res
+com.mycompany.reko.app-jetified-appcompat-resources-1.2.0-9 C:\Users\LENOVO\.gradle\caches\transforms-3\51e53e64f2aa44a9145c741d39cbb9ec\transformed\jetified-appcompat-resources-1.2.0\res
+com.mycompany.reko.app-jetified-credentials-play-services-auth-1.2.0-rc01-10 C:\Users\LENOVO\.gradle\caches\transforms-3\54ec07745d1c7ec927248ff49732aa94\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.mycompany.reko.app-jetified-window-1.2.0-11 C:\Users\LENOVO\.gradle\caches\transforms-3\65cc066ff56cb5212f8999b782bd9077\transformed\jetified-window-1.2.0\res
+com.mycompany.reko.app-fragment-1.7.1-12 C:\Users\LENOVO\.gradle\caches\transforms-3\662434bd380b1f7f24b356275979d3a3\transformed\fragment-1.7.1\res
+com.mycompany.reko.app-jetified-datastore-preferences-1.0.0-13 C:\Users\LENOVO\.gradle\caches\transforms-3\717386f1d3d07c775b83fd9d4cc05142\transformed\jetified-datastore-preferences-1.0.0\res
+com.mycompany.reko.app-jetified-play-services-auth-21.0.0-14 C:\Users\LENOVO\.gradle\caches\transforms-3\71f354bee2eb85915102dfa9a7157b5c\transformed\jetified-play-services-auth-21.0.0\res
+com.mycompany.reko.app-jetified-startup-runtime-1.1.1-15 C:\Users\LENOVO\.gradle\caches\transforms-3\81c23696ef9b6bd467713636726f5c77\transformed\jetified-startup-runtime-1.1.1\res
+com.mycompany.reko.app-lifecycle-viewmodel-2.7.0-16 C:\Users\LENOVO\.gradle\caches\transforms-3\8d59abffe71a62175b8e2ee986e372a8\transformed\lifecycle-viewmodel-2.7.0\res
+com.mycompany.reko.app-jetified-core-ktx-1.13.1-17 C:\Users\LENOVO\.gradle\caches\transforms-3\8de9c79b05e53c880f605deab53da0a3\transformed\jetified-core-ktx-1.13.1\res
+com.mycompany.reko.app-jetified-lifecycle-process-2.7.0-18 C:\Users\LENOVO\.gradle\caches\transforms-3\9b2f63966692626ed2af8b2cada7a5da\transformed\jetified-lifecycle-process-2.7.0\res
+com.mycompany.reko.app-jetified-firebase-common-21.0.0-19 C:\Users\LENOVO\.gradle\caches\transforms-3\9cc98d8c06ce1f44d25501db559aa7ed\transformed\jetified-firebase-common-21.0.0\res
+com.mycompany.reko.app-jetified-core-common-2.0.3-20 C:\Users\LENOVO\.gradle\caches\transforms-3\ad01bcea3a85707b1bb2ec0e2c4cf8ac\transformed\jetified-core-common-2.0.3\res
+com.mycompany.reko.app-lifecycle-livedata-core-2.7.0-21 C:\Users\LENOVO\.gradle\caches\transforms-3\ae01091c2f00c30a40fa014122dc93eb\transformed\lifecycle-livedata-core-2.7.0\res
+com.mycompany.reko.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-22 C:\Users\LENOVO\.gradle\caches\transforms-3\bae3d646e72d04845297d1db294c5284\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.mycompany.reko.app-jetified-annotation-experimental-1.4.0-23 C:\Users\LENOVO\.gradle\caches\transforms-3\bf4ab28013716e6e968fec5eceb2c135\transformed\jetified-annotation-experimental-1.4.0\res
+com.mycompany.reko.app-core-runtime-2.2.0-24 C:\Users\LENOVO\.gradle\caches\transforms-3\c23e4d53939484e7e3814c6470d9e993\transformed\core-runtime-2.2.0\res
+com.mycompany.reko.app-core-1.13.1-25 C:\Users\LENOVO\.gradle\caches\transforms-3\d802a9564527bf8dae88352a3ca13fc7\transformed\core-1.13.1\res
+com.mycompany.reko.app-jetified-play-services-base-18.0.1-26 C:\Users\LENOVO\.gradle\caches\transforms-3\e92b9d097ce298ec69a42fabfe762d1b\transformed\jetified-play-services-base-18.0.1\res
+com.mycompany.reko.app-jetified-activity-1.8.1-27 C:\Users\LENOVO\.gradle\caches\transforms-3\eac2769cb3c32d256df7fc99963c7628\transformed\jetified-activity-1.8.1\res
+com.mycompany.reko.app-jetified-savedstate-1.2.1-28 C:\Users\LENOVO\.gradle\caches\transforms-3\ee477180adcee8f064f88b0635f1c372\transformed\jetified-savedstate-1.2.1\res
+com.mycompany.reko.app-browser-1.8.0-29 C:\Users\LENOVO\.gradle\caches\transforms-3\f235998ad779bef08846f5ce3fe6e468\transformed\browser-1.8.0\res
+com.mycompany.reko.app-debug-30 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\android\app\src\debug\res
+com.mycompany.reko.app-main-31 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\android\app\src\main\res
+com.mycompany.reko.app-google-services-32 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\generated\res\google-services\debug
+com.mycompany.reko.app-pngs-33 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\generated\res\pngs\debug
+com.mycompany.reko.app-resValues-34 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\generated\res\resValues\debug
+com.mycompany.reko.app-packageDebugResources-35 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mycompany.reko.app-packageDebugResources-36 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mycompany.reko.app-merged_res-37 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\app\intermediates\merged_res\debug
+com.mycompany.reko.app-packaged_res-38 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\cloud_firestore\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-39 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\firebase_auth\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-40 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\firebase_core\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-41 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\firebase_performance\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-42 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\google_sign_in_android\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-43 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\path_provider_android\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-44 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\shared_preferences_android\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-45 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\sign_in_with_apple\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-46 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\sqflite\intermediates\packaged_res\debug
+com.mycompany.reko.app-packaged_res-47 C:\Users\LENOVO\Downloads\grad-project-main\grad-project-main\reko (1)\reko\build\url_launcher_android\intermediates\packaged_res\debug
